@@ -11,7 +11,7 @@ import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
 
-import org.meowcat.oneplus.helper.BuildConfig;
+import org.meowcat.miui.helper.BuildConfig;
 
 import java.io.File;
 import java.io.FileOutputStream;

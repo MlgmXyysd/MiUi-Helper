@@ -3,12 +3,12 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "org.meowcat.oneplus.helper"
+        applicationId "org.meowcat.miui.helper"
         minSdkVersion 24
         targetSdkVersion 29
         versionCode 1
         versionName "1.0.0"
-        project.ext.set("archivesBaseName", "OnePlusHelper-" + versionName + "-" + versionCode + "-" + applicationId)
+        project.ext.set("archivesBaseName", "MiUiHelper-" + versionName + "-" + versionCode + "-" + applicationId)
     }
     buildTypes {
         release {

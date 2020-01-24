@@ -4,11 +4,12 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "org.meowcat.miui.helper"
-        minSdkVersion 24
+        minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
         versionName "1.0.0"
-        project.ext.set("archivesBaseName", "MiUiHelper-" + versionName + "-" + versionCode + "-" + applicationId)
+        //noinspection GroovyAccessibility
+        project.ext.set("archivesBaseName", "MIUIHelper-" + versionName + "-" + versionCode + "-" + applicationId)
     }
     buildTypes {
         release {

@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">MiUi Helper</string>
-    <string name="app_desc">Xiaomi MiUi related Xposed module\nTelegram: @Code_of_MeowCat\nQQ: 855219808</string>
+    <string name="app_name">MIUI Helper</string>
+    <string name="app_desc">Xiaomi MIUI related Xposed module\nTelegram: @Code_of_MeowCat\nQQ: 855219808</string>
     <string name="xposed_status">Xposed module active status</string>
     <string name="xposed_disabled">Disabled</string>
     <string name="xposed_enabled">Enabled</string>

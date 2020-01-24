@@ -8,7 +8,7 @@ import android.app.Application;
 
 public class MeowCatApplication extends Application {
 
-    public static final String TAG = "MiUiHelper";
+    public static final String TAG = "MIUIHelper";
 
     @Override
     public void onCreate() {
